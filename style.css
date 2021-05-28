@@ -1,0 +1,40 @@
+body{
+    background-color: #795548;
+}
+h1{
+    font-family: 'Lobster Two', cursive;
+    margin-bottom: 0px;
+}
+header{
+    text-align: center;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: #d7ccc8;
+}
+.Tea{
+    font-family: 'Lobster Two', cursive;
+    padding: 5px;
+
+}
+.Bagel{
+    font-family: 'Lobster Two', cursive;
+    padding: 5px;
+}
+.Coffee{
+    font-family: 'Lobster Two', cursive;
+    padding: 5px;
+}
+img{
+    box-shadow: 5px  5px 5px black;
+
+}
